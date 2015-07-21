@@ -1,0 +1,8 @@
+## Title: AuctionValue2
+## Interface: 60000
+## Author: Elennara
+## Notes: Shows the total of your auction buyouts in the auction window.
+## Version: 1.0.0
+## SavedVariablesPerCharacter: AuctionValueTotal2
+
+AuctionValue2.lua
